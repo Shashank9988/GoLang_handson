@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	
-	emails := map[string]string{"Shashank": "tiwarishashank325@gmail.com", "Rahuk": "rahul@gmail.com"}
+	emails := map[string]string{"Shashank": "tiwarishashank325@gmail.com", "Rahul": "rahul@gmail.com"}
 
 	emails["James"] = "james@gmail.com"
 
@@ -18,7 +18,7 @@ func main() {
 
 	// MAP using make
 	mp := make(map[string]int)
-	
+
 
 
 }
